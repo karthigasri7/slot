@@ -103,7 +103,7 @@ Execute the program using runserver command.
             <td>3.</td>
             <td>19PH206</td>
             <td>C PROGRAMMING</td>
-        </tr>sss
+        </tr>
         
     </table>
 </body>
